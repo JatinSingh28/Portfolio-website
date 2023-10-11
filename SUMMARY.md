@@ -19,7 +19,12 @@
 * [🏁 Achievement Directory](achievements/achievement-directory/README.md)
   * [👨💻 Codeforces Specialist](achievements/achievement-directory/codeforces-specialist.md)
   * [🏅 Leetcode Knight (Top 3.7%)](achievements/achievement-directory/leetcode-knight-top-3.7.md)
+  * [🏆 Won Auction of Bytes](achievements/achievement-directory/won-auction-of-bytes.md)
+  * [☕ Hackathons](achievements/achievement-directory/hackathons/README.md)
+    * [4th Position in Technorax by IEEE](achievements/achievement-directory/hackathons/4th-position-in-technorax-by-ieee.md)
+    * [Won GDSC internal Hackathon 2022](achievements/achievement-directory/hackathons/won-gdsc-internal-hackathon-2022.md)
+    * [Runner up in GDSC internal Hackathon 2023](achievements/achievement-directory/hackathons/runner-up-in-gdsc-internal-hackathon-2023.md)
 
 ## CONTACT ME
 
-* [📞 Contacts](contact-me/contacts.md)
+* [📞 Let's Connect](contact-me/lets-connect.md)
