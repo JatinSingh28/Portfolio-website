@@ -11,8 +11,8 @@
   * [🔮 Forecaster](me/projects/forecaster.md)
   * [👀 AI Eyes](me/projects/ai-eyes.md)
   * [🏅 Olympics EDA](me/projects/olympics-eda.md)
-  * [📬 Real time chat App](me/projects/real-time-chat-app.md)
   * [🧘♂ Yoga pose Classifier](me/projects/yoga-pose-classifier.md)
+  * [📬 Real time chat App](me/projects/real-time-chat-app.md)
 
 ## Achievements
 
