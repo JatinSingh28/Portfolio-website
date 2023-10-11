@@ -10,6 +10,7 @@
 * [🚀 Projects](me/projects/README.md)
   * [🔮 Forecaster](me/projects/forecaster.md)
   * [👀 AI Eyes](me/projects/ai-eyes.md)
+  * [🦙 Chat with your PDFs using Llama2 LLm](me/projects/chat-with-your-pdfs-using-llama2-llm.md)
   * [🏅 Olympics EDA](me/projects/olympics-eda.md)
   * [🧘♂ Yoga pose Classifier](me/projects/yoga-pose-classifier.md)
   * [📬 Real time chat App](me/projects/real-time-chat-app.md)
