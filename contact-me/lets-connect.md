@@ -17,7 +17,7 @@ layout:
     visible: true
 ---
 
-# 📞 Contacts
+# 📞 Let's Connect
 
 {% embed url="https://github.com/JatinSingh28" %}
 
@@ -26,5 +26,7 @@ layout:
 {% embed url="https://drive.google.com/file/d/1_lF1p9paQDvlcaY8PAfloR_FJQu5adpT/view" %}
 
 {% embed url="https://twitter.com/jatin_singh_28" %}
+View on Twitter (currently unable to fetch tweets)
+{% endembed %}
 
 {% embed url="https://www.instagram.com/jatin_singh.28/" %}
