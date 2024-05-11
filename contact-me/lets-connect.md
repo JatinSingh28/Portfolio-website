@@ -14,7 +14,7 @@ layout:
   outline:
     visible: true
   pagination:
-    visible: true
+    visible: false
 ---
 
 # 📞 Let's Connect
@@ -23,7 +23,7 @@ layout:
 
 {% embed url="https://www.linkedin.com/in/jatinsingh28/" %}
 
-{% embed url="https://drive.google.com/file/d/1_lF1p9paQDvlcaY8PAfloR_FJQu5adpT/view" %}
+{% embed url="https://drive.google.com/file/d/1WZOt8aWn434YeiiuoMk5bdgaLiifsnTR/view?usp=sharing" %}
 
 {% embed url="https://twitter.com/jatin_singh_28" %}
 View on Twitter (currently unable to fetch tweets)

@@ -2,6 +2,17 @@
 description: >-
   This a Realtime chat application. Frontend is made with React and Express +
   NodeJS + Socket.io is used in the backend.
+layout:
+  title:
+    visible: true
+  description:
+    visible: true
+  tableOfContents:
+    visible: true
+  outline:
+    visible: true
+  pagination:
+    visible: false
 ---
 
 # 📬 Real time chat App

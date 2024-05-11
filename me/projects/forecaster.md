@@ -3,6 +3,17 @@ description: >-
   This project is designed for time series forecasting using various models. It
   allows you to input time series data, generate forecasts, visualize results,
   configure model parameters, perform hyperpara
+layout:
+  title:
+    visible: true
+  description:
+    visible: true
+  tableOfContents:
+    visible: true
+  outline:
+    visible: true
+  pagination:
+    visible: false
 ---
 
 # 🔮 Forecaster

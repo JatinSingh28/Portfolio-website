@@ -3,9 +3,20 @@ description: >-
   A yoga pose classifier is a computer vision model that can recognize and
   categorize different yoga poses based on input images or video. The classifier
   uses machine learning algorithms to analyze the
+layout:
+  title:
+    visible: true
+  description:
+    visible: true
+  tableOfContents:
+    visible: true
+  outline:
+    visible: true
+  pagination:
+    visible: false
 ---
 
-# 🧘♂ Yoga pose Classifier
+# 🧘‍♂️ Yoga pose Classifier
 
 ## GitHub Link:
 

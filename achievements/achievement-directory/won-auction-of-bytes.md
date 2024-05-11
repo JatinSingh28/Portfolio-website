@@ -1,5 +1,16 @@
 ---
 description: Won a coding contest Auction of Bytes in DDU college
+layout:
+  title:
+    visible: true
+  description:
+    visible: true
+  tableOfContents:
+    visible: true
+  outline:
+    visible: true
+  pagination:
+    visible: false
 ---
 
 # 🏆 Won Auction of Bytes

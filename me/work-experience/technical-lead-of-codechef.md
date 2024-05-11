@@ -1,8 +1,19 @@
 ---
 description: July 2023 - October 2023
+layout:
+  title:
+    visible: true
+  description:
+    visible: true
+  tableOfContents:
+    visible: true
+  outline:
+    visible: true
+  pagination:
+    visible: false
 ---
 
-# 🗣 Technical Lead of Codechef
+# 🗣️ Technical Lead of Codechef
 
 * Led the planning, execution, and management of numerous coding contests and hackathons, fostering a vibrant coding community and engaging participants from diverse backgrounds.
 * Orchestrated successful on-site and virtual events, including tech talks, workshops, and networking sessions to nurture and enrich the tech community.

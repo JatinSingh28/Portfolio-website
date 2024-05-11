@@ -6,19 +6,20 @@
 * [🪄 Work Experience](me/work-experience/README.md)
   * [💻 ML Intern at Culinda](me/work-experience/ml-intern-at-culinda.md)
   * [📊 ML Intern at Vzya Solutions Pvt Ltd.](me/work-experience/ml-intern-at-vzya-solutions-pvt-ltd..md)
-  * [🗣 Technical Lead of Codechef](me/work-experience/technical-lead-of-codechef.md)
+  * [🗣️ Technical Lead of Codechef](me/work-experience/technical-lead-of-codechef.md)
 * [🚀 Projects](me/projects/README.md)
+  * [🩺 Medical MNIST MLOPs](me/projects/medical-mnist-mlops.md)
   * [🔮 Forecaster](me/projects/forecaster.md)
   * [👀 AI Eyes](me/projects/ai-eyes.md)
   * [🦙 Chat with your PDFs using Llama2 LLm](me/projects/chat-with-your-pdfs-using-llama2-llm.md)
   * [🏅 Olympics EDA](me/projects/olympics-eda.md)
-  * [🧘♂ Yoga pose Classifier](me/projects/yoga-pose-classifier.md)
+  * [🧘‍♂️ Yoga pose Classifier](me/projects/yoga-pose-classifier.md)
   * [📬 Real time chat App](me/projects/real-time-chat-app.md)
 
 ## Achievements
 
 * [🏁 Achievement Directory](achievements/achievement-directory/README.md)
-  * [👨💻 Codeforces Specialist](achievements/achievement-directory/codeforces-specialist.md)
+  * [👨‍💻 Codeforces Specialist](achievements/achievement-directory/codeforces-specialist.md)
   * [🏅 Leetcode Knight (Top 3.7%)](achievements/achievement-directory/leetcode-knight-top-3.7.md)
   * [🏆 Won Auction of Bytes](achievements/achievement-directory/won-auction-of-bytes.md)
   * [☕ Hackathons](achievements/achievement-directory/hackathons/README.md)

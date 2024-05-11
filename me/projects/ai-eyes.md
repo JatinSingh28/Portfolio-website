@@ -2,6 +2,17 @@
 description: >-
   The project focuses on developing advanced software that empowers the blind to
   navigate and engage with their surroundings independently.
+layout:
+  title:
+    visible: true
+  description:
+    visible: true
+  tableOfContents:
+    visible: true
+  outline:
+    visible: true
+  pagination:
+    visible: false
 ---
 
 # 👀 AI Eyes

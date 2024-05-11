@@ -1,3 +1,17 @@
+---
+layout:
+  title:
+    visible: true
+  description:
+    visible: true
+  tableOfContents:
+    visible: true
+  outline:
+    visible: true
+  pagination:
+    visible: false
+---
+
 # 🦙 Chat with your PDFs using Llama2 LLm
 
 Welcome to the **Chat with your PDFs** GitHub repository! This project aims to revolutionize the way you interact with your PDF documents. By utilizing the power of Llama2 LLm, this project allows you to have natural and dynamic conversations with the text extracted from your PDF files. Say goodbye to manual searching and scrolling through lengthy documents – now you can simply chat with your PDFs!
